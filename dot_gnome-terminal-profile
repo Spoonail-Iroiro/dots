@@ -1,0 +1,103 @@
+[/]
+default='9e5373aa-a662-491d-b80b-32c91aaca842'
+list=['b1dcc9dd-5262-4d8d-a863-c897e6d979b9', '2a0a87af-d357-4a66-804e-f4fe9dac6c31', '9e5373aa-a662-491d-b80b-32c91aaca842', 'ad5f02f4-c92c-45d6-8164-e6f1497053ec', '1d5c4356-d5ea-4562-a516-7e80bec04761', '709bb7be-6997-48db-b4ba-fd7eb90a7deb', '1d6748e0-0daa-4f84-b605-a1e29b6f0c8b', '2536cef4-e9d8-4769-a6d8-0b81fbde7ce2']
+
+[:1d5c4356-d5ea-4562-a516-7e80bec04761]
+allow-bold=true
+background-color='#1E1E21212727'
+bold-color='#5C5C63637070'
+bold-color-same-as-fg=true
+cursor-background-color='#5C5C63637070'
+cursor-colors-set=true
+cursor-foreground-color='#1E1E21212727'
+custom-command="bash -c 'tmux new -A -s main'"
+foreground-color='#5C5C63637070'
+palette=['#000000000000', '#E0E06C6C7575', '#9898C3C37979', '#D1D19A9A6666', '#6161AFAFEFEF', '#C6C67878DDDD', '#5656B6B6C2C2', '#ABABB2B2BFBF', '#5C5C63637070', '#E0E06C6C7575', '#9898C3C37979', '#D1D19A9A6666', '#6161AFAFEFEF', '#C6C67878DDDD', '#5656B6B6C2C2', '#FFFFFEFEFEFE']
+use-custom-command=true
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='One Dark'
+
+[:1d6748e0-0daa-4f84-b605-a1e29b6f0c8b]
+allow-bold=true
+background-color='#1A1A1A1A1A1A'
+bold-color='#C4C4C5C5B5B5'
+bold-color-same-as-fg=true
+cursor-background-color='#C4C4C5C5B5B5'
+cursor-colors-set=true
+cursor-foreground-color='#1A1A1A1A1A1A'
+custom-command="bash -c 'tmux new -A -s main'"
+foreground-color='#C4C4C5C5B5B5'
+palette=['#1A1A1A1A1A1A', '#F4F400005F5F', '#9898E0E02424', '#FAFA84841919', '#9D9D6565FFFF', '#F4F400005F5F', '#5858D1D1EBEB', '#C4C4C5C5B5B5', '#62625E5E4C4C', '#F4F400005F5F', '#9898E0E02424', '#E0E0D5D56161', '#9D9D6565FFFF', '#F4F400005F5F', '#5858D1D1EBEB', '#F6F6F6F6EFEF']
+use-custom-command=true
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='Monokai Soda'
+
+[:2536cef4-e9d8-4769-a6d8-0b81fbde7ce2]
+custom-command="bash -c 'tmux new -A -s main'"
+use-custom-command=true
+visible-name='Default_tmux'
+
+[:2a0a87af-d357-4a66-804e-f4fe9dac6c31]
+font='Noto Mono 12'
+use-system-font=true
+visible-name='Default'
+
+[:709bb7be-6997-48db-b4ba-fd7eb90a7deb]
+allow-bold=true
+background-color='#272728282222'
+bold-color='#F8F8F8F8F2F2'
+bold-color-same-as-fg=true
+cursor-background-color='#F8F8F8F8F2F2'
+cursor-colors-set=true
+cursor-foreground-color='#272728282222'
+custom-command="bash -c 'tmux new -A -s main'"
+foreground-color='#F8F8F8F8F2F2'
+palette=['#757571715E5E', '#F9F926267272', '#A6A6E2E22E2E', '#F4F4BFBF7575', '#6666D9D9EFEF', '#AEAE8181FFFF', '#2A2AA1A19898', '#F9F9F8F8F5F5', '#272728282222', '#F9F926267272', '#A6A6E2E22E2E', '#F4F4BFBF7575', '#6666D9D9EFEF', '#AEAE8181FFFF', '#2A2AA1A19898', '#F8F8F8F8F2F2']
+use-custom-command=true
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='Monokai Dark'
+
+[:9e5373aa-a662-491d-b80b-32c91aaca842]
+allow-bold=true
+audible-bell=false
+background-color='#0A0A0F0F1414'
+bold-color='#9898D1D1CECE'
+bold-color-same-as-fg=true
+cell-height-scale=1.0
+cell-width-scale=1.0
+cursor-background-color='#9898D1D1CECE'
+cursor-colors-set=true
+cursor-foreground-color='#0A0A0F0F1414'
+custom-command='/bin/bash -c "tmux new -s main -A"'
+font='NotoMono Nerd Font Mono 12'
+foreground-color='#9898D1D1CECE'
+palette=['#0A0A0F0F1414', '#C3C330302727', '#2626A9A98B8B', '#EDEDB5B54B4B', '#191954546565', '#4E4E51516565', '#333385859D9D', '#9898D1D1CECE', '#101015151B1B', '#D2D269693939', '#08081F1F2D2D', '#242453536161', '#090937374848', '#88888B8BA5A5', '#59599C9CAAAA', '#D3D3EBEBE9E9']
+use-custom-command=true
+use-system-font=false
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='Gotham'
+
+[:ad5f02f4-c92c-45d6-8164-e6f1497053ec]
+allow-bold=true
+background-color='#141414141414'
+bold-color='#9494A3A3A5A5'
+bold-color-same-as-fg=true
+cursor-background-color='#9494A3A3A5A5'
+cursor-colors-set=true
+cursor-foreground-color='#141414141414'
+custom-command="bash -c 'tmux new -A -s main'"
+foreground-color='#9494A3A3A5A5'
+palette=['#28282A2A2E2E', '#A5A542424242', '#8C8C94944040', '#DEDE93935F5F', '#5F5F81819D9D', '#858567678F8F', '#5E5E8D8D8787', '#969698989696', '#37373B3B4141', '#CCCC66666666', '#B5B5BDBD6868', '#F0F0C6C67474', '#8181A2A2BEBE', '#B2B29494BBBB', '#8A8ABEBEB7B7', '#C5C5C8C8C6C6']
+use-custom-command=true
+use-theme-background=false
+use-theme-colors=false
+use-theme-transparency=false
+visible-name='Hybrid'

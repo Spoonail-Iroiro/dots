@@ -1,0 +1,9 @@
+[init]
+	defaultBranch = master
+[merge]
+	ff = false
+[pull]
+	ff = only
+[user]
+	email = example@example.com
+	name = spoon
